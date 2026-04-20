@@ -1,0 +1,27 @@
+📊 INSIGHTS 
+
+1. Region-wise Sales
+
+APAC region generates the highest revenue among all regions
+Sales distribution is uneven across regions
+A small number of customers contribute a large share of regional revenue
+
+2. Top Customers
+
+The top 10 customers contribute a significant portion of total revenue
+The business shows dependency on a few key customers, indicating potential risk
+
+3. Top Products
+
+A limited number of products drive the majority of sales
+Product portfolio is highly concentrated
+
+4. Top Markets
+
+The top 5 markets contribute a major share of overall revenue
+Market-level dependency is clearly visible
+
+5. Top Markets per Region
+
+Each region has 1–2 dominant markets contributing most of the sales
+There is potential growth opportunity in underperforming markets
